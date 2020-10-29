@@ -25,3 +25,4 @@ this project is just a demo how to use git
 // git reset --hard <to_commit> removed
 
 // git revert
+// .gitignore
